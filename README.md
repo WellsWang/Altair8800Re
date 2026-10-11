@@ -4,6 +4,9 @@ Remake of Altair 8800
 
 制作一个Altair 8800的复制品
 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/f6420107-7518-4f54-9d5e-eb306dacbe24" />
+
+
 ## 说明
 
 * Chasis目录中为机箱钣金设计文件和3D打印的附件零件的文件，分别使用Fusion 360和SketchUp设计。
